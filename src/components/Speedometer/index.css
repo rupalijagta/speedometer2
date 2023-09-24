@@ -1,0 +1,76 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #07080c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.image {
+  height: 200px;
+  width: 200x;
+}
+.second-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  align-items: center;
+  font-family: 'Roboto';
+  font-size: 48px;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.button1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border: none;
+  border-radius: 3px;
+  font-size: 10px;
+  cursor: pointer;
+  outline: none;
+  padding: 10px;
+  margin-right: 10px;
+}
+.button2 {
+  background-color: #94a3b8;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border: none;
+  border-radius: 3px;
+  font-size: 10px;
+  cursor: pointer;
+  outline: none;
+  padding: 10px;
+  margin-right: 10px;
+}
+.speed-text {
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.para {
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.button {
+  border-radius: 8px;
+  padding-left: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  margin-left: 12px;
+  margin-right: 12px;
+  outline: none;
+  cursor: pointer;
+}
